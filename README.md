@@ -6,7 +6,6 @@ Segmenting mall customers into behavioral groups using K-Means clustering on dem
 
 This project uses the Mall Customers dataset (200 records) to explore customer behavior and group customers into clusters based on:
 
-
 Annual Income vs Spending Score
 Age vs Spending Score
 
